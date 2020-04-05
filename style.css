@@ -1,0 +1,30 @@
+.plateau {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.noir {
+    background-color: grey;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+}
+.drag {
+    opacity: 1;
+    border: solid 1px black;
+}
+
